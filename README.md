@@ -1,4 +1,5 @@
 Projeto: Início da 5ª Aula Prática – Programação para Dispositivos Móveis (FAMINAS)
+
 Este repositório contém um exemplo inicial de app desenvolvido durante as aulas de Programação para Dispositivos Móveis na FAMINAS. Ele serve como ponta de partida para a 5ª aula prática, onde os alunos poderão dar continuidade às funcionalidades e exercícios propostos.
 
 Descrição do App
@@ -17,9 +18,8 @@ Funcionalidades
 - Lista: Exibe um Card para cada item, permitindo rolagem (usando FlatList).
 
 Objetivo Acadêmico
-Este app é um exemplo que os alunos podem consultar para compreender a separação de responsabilidades, estilização, e o uso de bibliotecas como React Native Paper.
-
-Na 5ª aula prática, os alunos devem adicionar a funcionalidade de editar um item, reaproveitando ou criando um modal próprio, seguindo boas práticas de nomenclatura e organização do código.
+- Este app é um exemplo que os alunos podem consultar para compreender a separação de responsabilidades, estilização, e o uso de bibliotecas como React Native Paper.
+- Na 5ª aula prática, os alunos devem adicionar a funcionalidade de editar um item, reaproveitando ou criando um modal próprio, seguindo boas práticas de nomenclatura e organização do código.
 
 Tecnologias e Ferramentas
 - Expo: Plataforma de desenvolvimento para React Native.
@@ -28,6 +28,7 @@ Tecnologias e Ferramentas
 - React Hooks: (useState, useEffect, etc.) para gerenciamento de estado.
 
 Como Rodar Localmente
+
 Instale o Expo CLI (caso ainda não tenha):
 - npm install --global expo-cli
 
